@@ -9,4 +9,4 @@ int main()
 	cout<< "size of double: " << sizeof(double) <<" bytes " << endl;
 	
 	return 0;
-}``````````````````````````````
+}
